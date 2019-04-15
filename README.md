@@ -1,1 +1,1 @@
-# best-repo-ever
+Just exploring using Git with Salesforce.
